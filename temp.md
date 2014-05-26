@@ -15,7 +15,8 @@ git push --set-upstream test1 master
 
 Found the updated file on GitHub
 
+Later trys
 git add temp.md
 git commit -m "commit message #3"
-git push --set-upstream test1 master
+git push 
 
