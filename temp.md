@@ -1,22 +1,18 @@
 
-## This is a markdown file
-
-Another practice at pushing local to gethub.
-
-Edit 1 to see what file gets where?!
+## This is another practice at pushing local to GitHub
 
 Edited file in RStudio
 
-First time
+### First time
 
-git add temp.md
-git commit
-git push --set-upstream test1 master
+* git add temp.md
+* git commit
+* git push --set-upstream test1 master
 
 Found the updated file on GitHub
 
-Later trys
-git add temp.md
-git commit -m "commit message #3"
-git push 
+### Later trys
+* git add temp.md
+* git commit -m "commit message #3"
+* git push 
 
