@@ -3,6 +3,16 @@
 
 Edited file in RStudio
 
+### Before starting
+* mkdir test1
+* cd test1
+
+* git remote -v show
+* git remote add test1 https://github.com/dspitzer50/datasciencecoursera.git
+* git remote -v show
+* git pull test1 master
+
+
 ### First time
 
 * git add temp.md
